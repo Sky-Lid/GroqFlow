@@ -15,6 +15,11 @@ Turn your voice into text 3× faster than typing — **forever free**, privacy-f
 - **Fully open-source** — MIT license, hack away!
 
 Wispr Flow charges $15/mo for "unlimited" — GroqFlow gives you unlimited potential for **$0** (beyond your own API usage, which is basically free for personal dictation).
+<img width="1029" height="456" alt="image" src="https://github.com/user-attachments/assets/08fad954-82fc-4973-885b-52846ca00681" />
+<img width="1601" height="897" alt="image" src="https://github.com/user-attachments/assets/bad6b8ce-1743-468c-ab3c-7d7b83b12915" />
+
+[AC_Hum_v3.4_denoised.wav](https://github.com/user-attachments/files/24606238/AC_Hum_v3.4_denoised.wav)
+[airconditionerbuzzingwithaudio.wav](https://github.com/user-attachments/files/24606245/airconditionerbuzzingwithaudio.wav)
 
 ### 🔥 Key Features
 - Global hotkey activation (speak anywhere — docs, code, chats, emails)
