@@ -18,7 +18,9 @@ Wispr Flow charges $15/mo for "unlimited" — GroqFlow gives you unlimited poten
 <img width="1029" height="456" alt="image" src="https://github.com/user-attachments/assets/08fad954-82fc-4973-885b-52846ca00681" />
 <img width="1601" height="897" alt="image" src="https://github.com/user-attachments/assets/bad6b8ce-1743-468c-ab3c-7d7b83b12915" />
 
+
 [AC_Hum_v3.4_denoised.wav](https://github.com/user-attachments/files/24606238/AC_Hum_v3.4_denoised.wav)
+
 [airconditionerbuzzingwithaudio.wav](https://github.com/user-attachments/files/24606245/airconditionerbuzzingwithaudio.wav)
 
 ### 🔥 Key Features
